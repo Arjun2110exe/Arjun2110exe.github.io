@@ -8,9 +8,9 @@ h1{
 
 p {
   background-color: #bfbfbf;
-  border: 8px solid black;
-  height: 150px;
-  margin-right: 10px;
+  border: 2px solid black;
+  height: 10px;
+  margin-right: 40px;
   padding: 40px 10px 5px 10px;
   overflow: hidden;
 }
