@@ -25,6 +25,7 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
+  margin: 0;
   height: 35px;
   width: 120px;
   padding: 10px;
