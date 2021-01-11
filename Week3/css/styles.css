@@ -22,10 +22,9 @@ p {
 }
 
 #p1 {
-  background-color: #D59898;
   position: absolute;
   top: 0;
-  right: 0;
+  right: 60;
   font-weight: bold;
   height: 35px;
   width: 120px;
