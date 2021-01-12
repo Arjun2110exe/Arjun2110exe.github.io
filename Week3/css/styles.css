@@ -9,7 +9,6 @@ h1{
 p {
   background-color: #bfbfbf;
   margin-right: 4px;
-  width: 100%
   padding: 25px 10px 5px 10px;
   overflow: hidden;
 }
@@ -43,7 +42,7 @@ p {
 @media (min-width: 992px) {
  .p {
     float: left;
-   
+    width: 100%;
   }
  
 }
@@ -52,7 +51,7 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
   .p {
     float: left;
-    
+    width: 80%;
   }
  
 }
@@ -61,6 +60,7 @@ p {
 @media (max-width: 767px) {
  .p {
     float: left;
+    width: 60%
    
   }
   
